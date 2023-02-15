@@ -1,1 +1,1 @@
-# Machine_Learning
+Built a multivariate regression model to predict mortality rate in USA. Predictors were selected using cross-validation. Compared regression against other supervised learning models including decision trees that were bagged, boosted, and random forest. The project was coompleted in collaboration with two other members; Eric Zhu and Felipe Rebeiro.
